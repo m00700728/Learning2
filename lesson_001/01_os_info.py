@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# TODO запустить этот код и сделать коммит на git
+>>>>>>> origin/master
 
 import sys
 import platform
